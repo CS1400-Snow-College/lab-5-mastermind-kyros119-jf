@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-5-mastermind-kyros119-jf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d12b8fa9ef302dbd21b44d44a0c82132bf57f63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+122df44d236df60733b9a9867b490c994cee28fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-5-mastermind-kyros119-jf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-5-mastermind-kyros119-jf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
